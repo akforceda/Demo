@@ -3,3 +3,5 @@ This is terminator here!!
 Added this to implement amend
 
 branch2 changes
+
+branch2 made change
