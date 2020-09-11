@@ -3,3 +3,7 @@ This is terminator here!!
 Added this to implement amend
 
 branch2 changes
+branch1 changes
+
+
+branch1 changes
