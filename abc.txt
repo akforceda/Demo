@@ -1,2 +1,3 @@
 hello world
 This is terminator here!!
+Added this to implement amend
