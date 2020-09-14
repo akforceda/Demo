@@ -1,6 +1,7 @@
 b2
 Hello world from new Branch
 b1
+abc
 new line added new branch
 new branch line 1
 new branch line 2
