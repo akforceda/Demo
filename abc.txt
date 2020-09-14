@@ -5,3 +5,4 @@ abc
 new line added new branch
 new branch line 1
 new branch line 2
+Hello from branch2
